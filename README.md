@@ -1,3 +1,19 @@
-# unityai
+# UnityAI with Neumorphism design
 
-A new Flutter project.
+
+## Installation
+
+Clone the repository
+```sh
+git clone https://github.com/rakaatmaja/unityai-neumorphism
+```
+
+Get package or dependencies
+```sh
+flutter pub get
+```
+
+Flutter run
+```sh
+flutter run
+```
